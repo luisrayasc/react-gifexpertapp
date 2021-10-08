@@ -7,3 +7,5 @@ import './index.css'; // Estilo CSS
 ReactDOM.render(<GifExpertApp />, document.getElementById('root'));
 
 // GifExpertApp
+
+// este es un comentario
